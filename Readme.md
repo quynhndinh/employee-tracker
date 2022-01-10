@@ -7,6 +7,8 @@
   - [Tests](#Tests)
   - [License](#License)
   - [Questions](#Questions)
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/56428388/148803427-1611fd90-f562-4d58-9b8b-fd867e030717.png)
   ## Description
   User can track their employees through this program, add, edit or even remove from the list.
   ## Installations
